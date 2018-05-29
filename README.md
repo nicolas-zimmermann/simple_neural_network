@@ -5,12 +5,12 @@ The initial training set is freely inspired by Yann LeCun, Corinna Cortes and Ch
 
 
 # to-do
-  ok - creation of variable neural-network structure
-  ok - reading and processing initial input at each layer / obtaining output
-  ok - freeing the allocated memory-space
-  training phase
-  exporting a neural network in a raw data file
-  reding a raw data file containing a neural network
+  ok - creation of variable neural-network structure  
+  ok - reading and processing initial input at each layer / obtaining output  
+  ok - freeing the allocated memory-space  
+  training phase  
+  exporting a neural network in a raw data file  
+  reding a raw data file containing a neural network  
   
 Each function of the code is commented
   
