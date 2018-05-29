@@ -15,16 +15,17 @@ The initial training set is freely inspired by Yann LeCun, Corinna Cortes and Ch
 Each function of the code is commented
   
 
-******Neural network in C******
+# Actual use of the program
 
-for compilation use argument -lm with ggc
+The code is so far singly contained in the main.c file.  
+Compile it with gcc using the -lm argument.  
 
-2 files are used by this fonction : data and labels
+**2 files are used by this program : data and labels
 
-data :
-data contains 28px * 28px images of grey-leveled pixels
+data : data contains 28px * 28px images of grey-leveled pixels  
+labels : each bytes of label is a value inbetween 0-9, corresponding to the image's depiction in the data file  
 
-labels : each bytes of label is a value inbetween 0-9, corresponding to the image's depiction in the data file
+More details considering these files are avaible at the following location : http://yann.lecun.com/exdb/mnist/index.html
 
 
 
